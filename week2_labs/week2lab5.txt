@@ -1,0 +1,5 @@
+onCreate() calls: 1
+onStart() calls: 2
+onResume() calls: 3
+onRestart() calls: 1
+

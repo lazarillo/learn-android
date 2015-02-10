@@ -1,0 +1,8 @@
+# Ignore all of the Apple leftover junk
+*.DS_Store
+
+# Ignore zip files
+*.zip
+
+# Ignore the the built .class files (Java)
+*.class
